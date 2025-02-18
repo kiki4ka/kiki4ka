@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on bioinformatics projects and any other programming-related projects.
 - 📫 How to reach me: kikiforella@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Currently studying for a Master's degree in Bioinformatics at the University of Valencia and a Bachelor's degree in Multimedia Engineering at the Polytechnic University of Valencia.
+- ⚡ Fun fact: Currently studying for a Master's degree in Bioinformatics at the University of Valencia and a Bachelor's degree in Digital and Multimedia Technology at the Polytechnic University of Valencia.
 
 <!---
 kiki4ka/kiki4ka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
